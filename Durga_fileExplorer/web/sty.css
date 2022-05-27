@@ -1,0 +1,30 @@
+img
+{
+    height:40px;
+    width:40px;
+    margin-right: 200 px;
+}
+span{
+    display:inline-flex;
+    align-items: center;
+}
+
+span
+{
+    display:inline-flex;
+    align-items: center; 
+}
+#content{
+display: flex;
+}
+#demo{
+    display: inline-block;
+
+}
+#path{
+    font-style: italic;
+}
+#hov:hover{
+    background-color: #D6EAF8;
+
+}
